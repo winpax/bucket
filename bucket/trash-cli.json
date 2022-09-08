@@ -1,0 +1,19 @@
+{
+    "version": "1.0.0",
+    "homepage": "https://github.com/jewlexx/trashed",
+    "checkver": {
+        "github": "https://github.com/jewlexx/trashed"
+    },
+    "url": "https://github.com/jewlexx/trashed/releases/download/v1.0.0/trash.exe",
+    "hash": "6f7d08d2cdc1e566c35b7fa7732806ea5bf3f80b68a9955f27a94da891e86c5b",
+    "autoupdate": {
+        "url": "https://github.com/jewlexx/trashed/releases/download/v$version/trash.exe"
+    },
+    "shortcuts": [
+        [
+            "trash.exe",
+            "trash"
+        ]
+    ],
+    "bin": "trash.exe"
+}
