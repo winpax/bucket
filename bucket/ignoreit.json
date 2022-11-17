@@ -7,7 +7,7 @@
     "hash": "37417d474a3564b9b35d54641fb6c91fdb28cab3392ab0843e3cfde48bbe44f6",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/jewlexx/ignoreit/releases/download/v$version/ignoreit-x86_64-windows.exe#/ignoreit.exe"
+        "url": "https://github.com/jewlexx/ignoreit/releases/download/v$version/ignoreit-x86_64-windows.exe"
     },
     "license": "MIT"
 }
