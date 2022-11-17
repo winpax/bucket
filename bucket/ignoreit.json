@@ -2,7 +2,10 @@
     "version": "2.4.8",
     "description": "Quickly load .gitignore templates",
     "homepage": "https://github.com/jewlexx/ignoreit",
-    "bin": "ignoreit.exe",
+    "bin": [
+        "ignoreit-x86_64-windows.exe",
+        "ignoreit.exe"
+    ],
     "url": "https://github.com/jewlexx/ignoreit/releases/download/v2.4.8/ignoreit-x86_64-windows.exe",
     "hash": "58c58263b0b18d123decc2c673e5dc08f3b1846431d03ff29e037a1acd15d96b",
     "checkver": "github",
