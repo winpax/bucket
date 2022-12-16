@@ -1,0 +1,12 @@
+{
+  "license": "GPL-3.0",
+  "hash": "E0CD956506818542DA7FAA62D94128C184C12801EF10BD369DC5013D92AEA39B",
+  "bin": "Scarab.exe",
+  "version": "v1.19.0.0",
+  "url": "https://github.com/fifty-six/Scarab/releases/download/v1.19.0.0/windows.zip",
+  "homepage": "https://github.com/fifty-six/Scarab",
+  "checkver": "github",
+  "autoupdate": {
+    "url": "https://github.com/fifty-six/Scarab/releases/download/v$version/windows.zip"
+  }
+}
