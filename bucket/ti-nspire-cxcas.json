@@ -1,8 +1,0 @@
-{
-  "url": "https://education.ti.com/download/en/ed-tech/36BE84F974E940C78502AA47492887AB/612A9BAF348640BAB8109CAB4C152125/TINspireCXCASStudentSoftware-5.4.0.259.msi#/dl.msi",
-  "version": "5.4.0.259",
-  "pre_install": [
-    "Expand-MsiArchive \"$dir\\dl.msi\" \"$dir\" | Out-Null",
-    "Remove-Item \"$dir\\dl.msi\""
-  ]
-}
