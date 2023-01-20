@@ -3,7 +3,7 @@
   "version": "0.2.1r2",
   "license": "GPL-3.0",
   "bin": "clipboard.exe",
-  "homepage": "https://slackadays.github.io/Clipboard/",
+  "homepage": "https://github.com/Slackadays/Clipboard/",
   "url": "https://github.com/Slackadays/Clipboard/releases/download/0.2.1r2/clipboard-windows-amd64.zip",
   "extract_dir": "bin",
   "hash": "1A5B4A73BBF5B84EED3EF0E52F1ED2CA1CD49B21DA5F64E99263C3F0D6CB2484",
