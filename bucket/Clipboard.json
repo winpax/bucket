@@ -1,5 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
+    "description": "📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.",
     "version": "0.2.1",
     "license": "GPL-3.0",
     "bin": "clipboard.exe",

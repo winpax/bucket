@@ -1,5 +1,6 @@
 {
     "version": "1.8.25",
+    "description": "A sleek, highly customizable timer for speedrunners.",
     "homepage": "http://livesplit.org/",
     "checkver": {
         "github": "https://github.com/LiveSplit/LiveSplit"

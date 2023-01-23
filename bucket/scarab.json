@@ -1,5 +1,6 @@
 {
     "license": "GPL-3.0",
+    "description": "An installer for Hollow Knight mods written in Avalonia.",
     "hash": "e0cd956506818542da7faa62d94128c184c12801ef10bd369dc5013d92aea39b",
     "bin": "Scarab.exe",
     "version": "1.19.0.0",

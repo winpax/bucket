@@ -1,5 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
+  "description": "Chat client for Twitch, with added 7tv emote support",
   "bin": "chatterino.exe",
   "hash": "B714F75B2501CE6AB2A1D0CEF0C7AA3904067C0B533ACC60ADDA72AEBE7CE473",
   "shortcuts": [
