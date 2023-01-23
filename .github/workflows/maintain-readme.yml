@@ -1,0 +1,22 @@
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    # run every hour
+    - cron: '20 */1 * * *'
+name: Readme Maintenance
+jobs:
+  update-readme:
+    name: Update Readme
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@main
+      - name: Update Readme
+        shell: powershell
+        run: ./bin/update-readme.ps1
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        name: Commit Readme Changes
+        with:
+          commit_message: 'chore: Update Readme'
+          commit_user_name: Readme Maintenance
+          file_pattern: '*.md'
