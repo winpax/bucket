@@ -4,7 +4,12 @@ This is my personal scoop bucket where I just throw in random apps that I can't 
 
 [Schema](https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json) so I can find it in future
 
-## Some of the apps
+## Apps
 
-| Name | Description | Version |
-| ---- | ----------- | ------- |
+The following is a list of the apps that are included
+
+| Name       | Description       | Version       |
+| ---------- | ----------------- | ------------- |
+| %app-name% | %app-description% | %app-version% |
+
+**Made with 💗 by Juliette Cordor**
