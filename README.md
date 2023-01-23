@@ -4,10 +4,12 @@ This is my personal scoop bucket where I just throw in random apps that I can't 
 
 [Schema](https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json) so I can find it in future
 
-## Some of the apps
+## Apps
 
-| Name | Description | Version |
-| ---- | ----------- | ------- |
+The following is a list of the apps that are included
+
+| Name       | Description       | Version       |
+| ---------- | ----------------- | ------------- |
 |chatterino7|Chat client for Twitch, with added 7tv emote support|7.4.0|
 |Clipboard|📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.|0.2.1|
 |gh-cli|GitHub’s official command line tool|2.21.1|
@@ -18,3 +20,6 @@ This is my personal scoop bucket where I just throw in random apps that I can't 
 |sfsu|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.3.0|
 |trash-cli|Cross platform cli for moving files into the trash|1.0.0|
 |trunk|Build, bundle & ship your Rust WASM application to the web. |0.16.0|
+
+
+**Made with 💗 by Juliette Cordor**
