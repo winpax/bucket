@@ -1,9 +1,6 @@
 on:
   push:
   workflow_dispatch:
-  schedule:
-    # run every hour
-    - cron: '20 */1 * * *'
 name: Readme Maintenance
 jobs:
   update-readme:
