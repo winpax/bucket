@@ -1,0 +1,54 @@
+{
+    "homepage": "https://crystalmark.info/en/",
+    "description": "CrystalDiskInfo is a HDD/SSD utility software which supports S.M.A.R.T and a part of USB-HDD.",
+    "version": "8.17.13",
+    "license": "MIT",
+    "url": "https://dotsrc.dl.osdn.net/osdn/crystaldiskinfo/78047/CrystalDiskInfo8_17_13KureiKei.zip",
+    "hash": "CB88AE6F2196BF466A532FD858B9DABA70A8CAD36F2E80E6B9B6B0331BABC7DF",
+    "architecture": {
+        "64bit": {
+            "shortcuts": [
+                [
+                    "DiskInfo64S.exe",
+                    "CrystalDiskInfo Kurei Kei Edition"
+                ]
+            ]
+        },
+        "32bit": {
+            "shortcuts": [
+                [
+                    "DiskInfo32S.exe",
+                    "CrystalDiskInfo Kurei Kei Edition"
+                ]
+            ]
+        },
+        "arm64": {
+            "shortcuts": [
+                [
+                    "DiskInfoA64S.exe",
+                    "CrystalDiskInfo Kurei Kei Edition"
+                ]
+            ]
+        }
+    },
+    "pre_install": [
+        "if (!(Test-Path \"$persist_dir\\DiskInfo.ini\")) {",
+        "    New-Item \"$dir\\DiskInfo.ini\" -ItemType File | Out-Null",
+        "}"
+    ],
+    "persist": [
+        "DiskInfo.ini",
+        "Smart"
+    ],
+    "checkver": {
+        "url": "https://osdn.net/projects/crystaldiskinfo/",
+        "regex": "releases\\/(?<release>[\\d]+)\">CrystalDiskInfo ([\\w.]+)<"
+    },
+    "autoupdate": {
+        "url": "https://dotsrc.dl.osdn.net/osdn/crystaldiskinfo/$matchRelease/CrystalDiskInfo$underscoreVersionKureiKei.zip",
+        "hash": {
+            "url": "https://osdn.net/projects/crystaldiskinfo/releases/rss",
+            "xpath": "//osdn:file[@url='https://osdn.net/projects/crystaldiskinfo/downloads/$matchRelease/CrystalDiskInfo$underscoreVersionKureiKei.zip/']/@sha256"
+        }
+    }
+}
