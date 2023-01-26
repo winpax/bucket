@@ -1,4 +1,6 @@
 on:
+  schedule:
+    - cron: '*/4 * * * *'
   push:
   workflow_dispatch:
 name: Readme Maintenance
