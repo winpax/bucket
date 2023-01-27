@@ -1,5 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
+  "description": "An evaluation context for Rust by Google",
   "homepage": "https://github.com/google/evcxr",
   "version": "0.14.2",
   "license": "Apache-2.0",
