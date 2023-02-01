@@ -1,0 +1,24 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
+  "version": "1.2.1",
+  "description": "A simple VST/AU, crossplatform host for OS X, Windows, and Linux that sits in the menubar.",
+  "url": "https://github.com/rolandoislas/LightHost/releases/download/v1.2.1/Light.Host.1.2.1.Win64.zip",
+  "bin": "Light Host.exe",
+  "shortcuts": [
+    [
+      "Light Host.exe",
+      "Light Host"
+    ]
+  ],
+  "hash": "0f11f3d43cce631fab171d9768c0335b70e0149c455a2a9a40b8ff49443fc325",
+  "extract_dir": "Light Host 1.2.1 Win64",
+  "license": {
+    "identifier": "GPL-2.0-or-later",
+    "url": "https://raw.githubusercontent.com/rolandoislas/LightHost/master/license"
+  },
+  "homepage": "https://github.com/rolandoislas/LightHost",
+  "checkver": "github",
+  "autoupdate": {
+    "url": "https://github.com/rolandoislas/LightHost/releases/download/v$version/Light.Host.$version.Win64.zip"
+  }
+}
