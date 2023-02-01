@@ -23,7 +23,7 @@ The following is a list of the apps that are included
 |lapce-nightly|Lightning-fast and Powerful Code Editor written in Rust|nightly|
 |livesplit|A sleek, highly customizable timer for speedrunners.|1.8.25|
 |powershell|PowerShell Core, the cross-platform task automation and configuration management framework/tool.|7.3.2|
-|scarab|An installer for Hollow Knight mods written in Avalonia.|1.19.0.0|
+|scarab|An installer for Hollow Knight mods written in Avalonia.|1.20.0.0|
 |sfsu|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.4.1|
 |trash-cli|Cross platform cli for moving files into the trash|1.0.0|
 |trunk|Build, bundle & ship your Rust WASM application to the web. |0.16.0|
