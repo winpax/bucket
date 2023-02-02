@@ -7,6 +7,12 @@
     "extract_dir": "EliteKeyboards",
     "url": "https://files2.majorgeeks.com/c67f4520b1a5026fff6753d33f10cd4aa61d92ba/diagnostics/EK_Switch_Hitter_Installer_v1.0.msi",
     "hash": "5c93e997268b086195eacc6304b51b1225201bdf36a47d2915eb79fce55827d5",
+    "bin": [
+        [
+            "Switch Hitter.exe",
+            "SwitchHitter.exe"
+        ]
+    ],
     "shortcuts": [
         [
             "Switch Hitter.exe",
