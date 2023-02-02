@@ -10,7 +10,7 @@
     "bin": [
         [
             "Switch Hitter.exe",
-            "SwitchHitter.exe"
+            "switchhitter"
         ]
     ],
     "shortcuts": [
