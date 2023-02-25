@@ -12,7 +12,7 @@ The following is a list of the apps that are included
 | ---------- | ----------------- | ------------- |
 |android-sdk|A component for the Android SDK, which includes the complete set of development and debugging tools for Android.|4333796|
 |chatterino7|Chat client for Twitch, with added 7tv emote support|7.4.0|
-|Clipboard|📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.|0.3.2|
+|Clipboard|📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.|0.4.0|
 |crystaldiskinfo-kurei-kei-edition|CrystalDiskInfo is a HDD/SSD utility software which supports S.M.A.R.T and a part of USB-HDD.|8.17.14|
 |crystaldiskinfo-shizuku-edition|CrystalDiskInfo is a HDD/SSD utility software which supports S.M.A.R.T and a part of USB-HDD.|8.17.14|
 |crystaldiskinfo|HDD/SSD utility software which supports S.M.A.R.T and a part of USB-HDD|8.17.14|
