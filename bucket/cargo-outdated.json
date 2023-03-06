@@ -4,7 +4,7 @@
     "homepage": "https://github.com/kbknapp/cargo-outdated",
     "license": "MIT",
     "version": "0.11.2",
-    "hash": "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5",
+    "hash": "E69BBBA6A836F192EFE382AE68B357B393CB91FC4D7EBD63E9D738E698D39C3F",
     "url": "https://github.com/kbknapp/cargo-outdated/releases/download/v0.11.2/cargo-outdated-0.11.2-x86_64-pc-windows-msvc.zip",
     "checkver": "github",
     "autoupdate": {
