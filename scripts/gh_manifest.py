@@ -1,5 +1,6 @@
 """Generate a manifest file from a Github Repo."""
 
+import json
 from sys import argv
 from urllib import parse
 import hashlib
@@ -38,4 +39,4 @@ json_manifest = {
     "url": dl_url,
 }
 
-print(json_manifest)
+print(json.dumps(json_manifest))
