@@ -17,15 +17,16 @@ The following is a list of the apps that are included
 |crystaldiskinfo-shizuku-edition|CrystalDiskInfo is a HDD/SSD utility software which supports S.M.A.R.T and a part of USB-HDD.|8.17.14|
 |crystaldiskinfo|HDD/SSD utility software which supports S.M.A.R.T and a part of USB-HDD|8.17.14|
 |evcxr|An evaluation context for Rust by Google|0.14.2|
-|flutter|Google's mobile app SDK for crafting high-quality native interfaces on iOS and Android|3.7.5|
+|flutter|Google's mobile app SDK for crafting high-quality native interfaces on iOS and Android|3.7.6|
 |gh-cli|GitHub’s official command line tool|2.21.1|
 |ignoreit|Quickly load .gitignore templates|2.4.10|
 |lapce-nightly|Lightning-fast and Powerful Code Editor written in Rust|nightly|
 |LightHost|A simple VST/AU, crossplatform host for OS X, Windows, and Linux that sits in the menubar.|1.2.1|
 |livesplit|A sleek, highly customizable timer for speedrunners.|1.8.25|
 |powershell|PowerShell Core, the cross-platform task automation and configuration management framework/tool.|7.3.3|
-|scarab|An installer for Hollow Knight mods written in Avalonia.|1.20.0.0|
-|sfsu|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.4.3|
+|scarab|An installer for Hollow Knight mods written in Avalonia.|1.21.0.0|
+|sfsu|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.4.4|
+|signal|A cross-platform encrypted messaging service.|6.8.0|
 |switch-hitter|Switch Hitter is a keyboard diagnostic program that allows for key actuation testing and aims to alleviate difficulty in switch bounce/chatter diagnosis.|1.0|
 |trash-cli|Cross platform cli for moving files into the trash|1.0.0|
 |trunk|Build, bundle & ship your Rust WASM application to the web. |0.16.0|
