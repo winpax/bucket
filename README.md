@@ -25,7 +25,7 @@ The following is a list of the apps that are included
 |LightHost|A simple VST/AU, crossplatform host for OS X, Windows, and Linux that sits in the menubar.|1.2.1|
 |livesplit|A sleek, highly customizable timer for speedrunners.|1.8.25|
 |powershell|PowerShell Core, the cross-platform task automation and configuration management framework/tool.|7.3.3|
-|scarab|An installer for Hollow Knight mods written in Avalonia.|1.21.0.0|
+|scarab|An installer for Hollow Knight mods written in Avalonia.|1.31.0.0|
 |sfsu|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.4.6|
 |signal|A cross-platform encrypted messaging service.|6.8.0|
 |switch-hitter|Switch Hitter is a keyboard diagnostic program that allows for key actuation testing and aims to alleviate difficulty in switch bounce/chatter diagnosis.|1.0|
