@@ -5,7 +5,7 @@
     "license": "Proprietary",
     "version": "0.20.1",
     "bin": "cargo-binstall.exe",
-    "hash": "C9E3ED3BC69FC57B339B339E468831B779449FA4C3ADE64C8B0E45F595939257",
+    "hash": "AE00B6564D468F5B0E6F996F5E4A54FED08C627F2EC5EA2D3BC7BB1808D03BA0",
     "url": "https://github.com/cargo-bins/cargo-binstall/releases/download/v0.20.1/cargo-binstall-x86_64-pc-windows-msvc.full.zip",
     "checkver": "github",
     "autoupdate": {
