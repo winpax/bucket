@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jewlexx/sfss/releases/download/v1.4.6/dl-x86_64.7z#dl.7z",
+            "url": "https://github.com/jewlexx/sfsu/releases/download/v1.4.6/dl-x86_64.7z#dl.7z",
             "hash": "bc79b7c3dfe5b8333e50e249163f163d43aa6421c401de96b9e296f3e14c0468"
         },
         "32bit": {
-            "url": "https://github.com/jewlexx/sfss/releases/download/v1.4.6/dl-i686.7z#dl.7z",
+            "url": "https://github.com/jewlexx/sfsu/releases/download/v1.4.6/dl-i686.7z#dl.7z",
             "hash": "bca5d6fb3d697b531306838e0db5302a1040ecd1aafed9258433b699012caaa4"
         }
     },
@@ -19,13 +19,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/jewlexx/sfss/releases/download/v$version/dl-x86_64.7z#dl.7z",
+                "url": "https://github.com/jewlexx/sfsu/releases/download/v$version/dl-x86_64.7z#dl.7z",
                 "hash": {
                     "url": "$url.sha256"
                 }
             },
             "32bit": {
-                "url": "https://github.com/jewlexx/sfss/releases/download/v$version/dl-i686.7z#dl.7z",
+                "url": "https://github.com/jewlexx/sfsu/releases/download/v$version/dl-i686.7z#dl.7z",
                 "hash": {
                     "url": "$url.sha256"
                 }
