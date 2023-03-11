@@ -1,13 +1,13 @@
 {
     "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
     "description": "📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.",
-    "version": "0.4.0",
+    "version": "0.5.0",
     "license": "GPL-3.0",
     "bin": "clipboard.exe",
     "homepage": "https://github.com/Slackadays/Clipboard/",
-    "url": "https://github.com/Slackadays/Clipboard/releases/download/0.4.0/clipboard-windows-amd64.zip",
+    "url": "https://github.com/Slackadays/Clipboard/releases/download/0.5.0/clipboard-windows-amd64.zip",
     "extract_dir": "bin",
-    "hash": "348b0c1cc9535b3af6794f07b53b1824048a24e59ed17ed1ea9055b9de1caefb",
+    "hash": "fba06c50f4ba7986b7007240abf253e97e8ae9770f91dcb10b09de48326fd61e",
     "autoupdate": {
         "url": "https://github.com/Slackadays/Clipboard/releases/download/$version/clipboard-windows-amd64.zip"
     },
