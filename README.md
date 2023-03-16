@@ -28,7 +28,7 @@ The following is a list of the apps that are included
 |powershell|PowerShell Core, the cross-platform task automation and configuration management framework/tool.|7.3.3|
 |scarab|An installer for Hollow Knight mods written in Avalonia.|1.31.0.0|
 |sfsu|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.4.6|
-|signal|A cross-platform encrypted messaging service.|6.9.0|
+|signal|A cross-platform encrypted messaging service.|6.10.0|
 |switch-hitter|Switch Hitter is a keyboard diagnostic program that allows for key actuation testing and aims to alleviate difficulty in switch bounce/chatter diagnosis.|1.0|
 |trash-cli|Cross platform cli for moving files into the trash|1.0.0|
 |trunk|Build, bundle & ship your Rust WASM application to the web. |0.16.0|
