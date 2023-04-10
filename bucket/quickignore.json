@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "description": "Lightweight program to download gitignore templates from gitignore.io",
+    "homepage": "https://github.com/jewlexx/quickignore",
+    "bin": "quickignore.exe",
+    "url": "https://github.com/jewlexx/quickignore/releases/download/v1.0.0/quickignore.exe",
+    "hash": "2649afc58427f0222b3d7814ad3640a3baa189fd038f09c207045e2d6dedc4ee",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/jewlexx/quickignore/releases/download/v$version/quickignore.exe"
+    },
+    "license": "MIT"
+}
