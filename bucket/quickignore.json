@@ -1,13 +1,16 @@
 {
+    "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
     "version": "1.0.1",
     "description": "Lightweight program to download gitignore templates from gitignore.io",
     "homepage": "https://github.com/jewlexx/quickignore",
     "bin": "quickignore.exe",
-    "url": "https://github.com/jewlexx/quickignore/releases/download/v1.0.1/quickignore.exe",
-    "hash": "4ba1155738047295a4e17ee81a4cf4bb7ba7656923d76f545261165deb2b5438",
+    "extract_dir": "quickignore-1.0.1-win64",
+    "url": "https://github.com/jewlexx/quickignore/releases/download/v1.0.1/quickignore-1.0.1-win64.7z",
+    "hash": "63EF8AE08FD6446DDF792EB897CA66A5614A175C62591E812ECA1EEB8B7BA84D",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/jewlexx/quickignore/releases/download/v$version/quickignore.exe"
+        "url": "https://github.com/jewlexx/quickignore/releases/download/v$version/quickignore-$version-win64.7z",
+        "extract_dir": "quickignore-$version-win64.7z"
     },
     "license": "MIT"
 }
