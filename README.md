@@ -19,7 +19,7 @@ The following is a list of the apps that are included
 |crystaldiskinfo-shizuku-edition|CrystalDiskInfo is a HDD/SSD utility software which supports S.M.A.R.T and a part of USB-HDD.|9.0.1a|
 |crystaldiskinfo|HDD/SSD utility software which supports S.M.A.R.T and a part of USB-HDD|9.0.1a|
 |evcxr|An evaluation context for Rust by Google|0.14.2|
-|flutter|Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop|3.10.4|
+|flutter|Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop|3.10.5|
 |gh-cli|GitHub’s official command line tool|2.21.1|
 |ignoreit|Quickly load .gitignore templates|2.4.10|
 |lapce-nightly|Lightning-fast and Powerful Code Editor written in Rust|nightly|
