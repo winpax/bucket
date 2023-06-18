@@ -24,7 +24,7 @@ The following is a list of the apps that are included
 |ignoreit|Quickly load .gitignore templates|2.4.10|
 |lapce-nightly|Lightning-fast and Powerful Code Editor written in Rust|nightly|
 |LightHost|A simple VST/AU, crossplatform host for OS X, Windows, and Linux that sits in the menubar.|1.2.1|
-|livesplit|A sleek, highly customizable timer for speedrunners.|1.8.25|
+|livesplit|A sleek, highly customizable timer for speedrunners.|1.8.26|
 |powershell|PowerShell Core, the cross-platform task automation and configuration management framework/tool.|7.3.4|
 |quickignore|Lightweight program to download gitignore templates from gitignore.io|1.0.1|
 |scarab|An installer for Hollow Knight mods written in Avalonia.|1.33.0.0|
