@@ -1,14 +1,14 @@
 {
-  "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
-  "description": "Binary installation for rust projects",
-  "homepage": "https://github.com/cargo-bins/cargo-binstall",
-  "license": "Proprietary",
-  "version": "0.23.1",
-  "bin": "cargo-binstall.exe",
-  "hash": "1b93bcd806fdeb5dbeadde9742b01cb574d9123bcafda77969d4c91d6ec499d7",
-  "url": "https://github.com/cargo-bins/cargo-binstall/releases/download/v0.23.1/cargo-binstall-x86_64-pc-windows-msvc.full.zip",
-  "checkver": "github",
-  "autoupdate": {
-    "url": "https://github.com/cargo-bins/cargo-binstall/releases/download/v$version/cargo-binstall-x86_64-pc-windows-msvc.full.zip"
-  }
+    "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
+    "description": "Binary installation for rust projects",
+    "homepage": "https://github.com/cargo-bins/cargo-binstall",
+    "license": "Proprietary",
+    "version": "1.0.0",
+    "bin": "cargo-binstall.exe",
+    "hash": "2ddc637f16897893516810134fa30a6806264ee394bf27736b020834f82df706",
+    "url": "https://github.com/cargo-bins/cargo-binstall/releases/download/v1.0.0/cargo-binstall-x86_64-pc-windows-msvc.full.zip",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/cargo-bins/cargo-binstall/releases/download/v$version/cargo-binstall-x86_64-pc-windows-msvc.full.zip"
+    }
 }
