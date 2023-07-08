@@ -1,14 +1,14 @@
 {
-  "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
-  "description": "📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.",
-  "version": "0.8.0",
-  "license": "GPL-3.0",
-  "bin": "bin/cb.exe",
-  "homepage": "https://github.com/Slackadays/Clipboard/",
-  "url": "https://github.com/Slackadays/Clipboard/releases/download/0.8.0/clipboard-windows-amd64.zip",
-  "hash": "390b817b6357b3f008a42ad64061c97deaa44ba0cdee04af4b30139311c4f444",
-  "autoupdate": {
-    "url": "https://github.com/Slackadays/Clipboard/releases/download/$version/clipboard-windows-amd64.zip"
-  },
-  "checkver": "github"
+    "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
+    "description": "📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.",
+    "version": "0.8.1",
+    "license": "GPL-3.0",
+    "bin": "bin/cb.exe",
+    "homepage": "https://github.com/Slackadays/Clipboard/",
+    "url": "https://github.com/Slackadays/Clipboard/releases/download/0.8.1/clipboard-windows-amd64.zip",
+    "hash": "a38bce7adfed109c32ae64c23acde96902a361f3305a0c2948884bb9a0ed9f95",
+    "autoupdate": {
+        "url": "https://github.com/Slackadays/Clipboard/releases/download/$version/clipboard-windows-amd64.zip"
+    },
+    "checkver": "github"
 }
