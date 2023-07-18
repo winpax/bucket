@@ -11,7 +11,7 @@ The following is a list of the apps that are included
 | Name       | Description       | Version       |
 | ---------- | ----------------- | ------------- |
 |android-sdk|A component for the Android SDK, which includes the complete set of development and debugging tools for Android.|4333796|
-|cargo-binstall|Binary installation for rust projects|1.0.0|
+|cargo-binstall|Binary installation for rust projects|1.1.0|
 |cargo-outdated|A cargo subcommand for displaying when Rust dependencies are out of date|0.11.2|
 |chatterino7|Chat client for Twitch, with added 7tv emote support|7.4.0|
 |Clipboard|📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.|0.8.1|
