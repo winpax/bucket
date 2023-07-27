@@ -17,7 +17,7 @@ The following is a list of the apps that are included
 |Clipboard|📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.|0.8.1|
 |crystaldiskinfo-kurei-kei-edition|CrystalDiskInfo is a HDD/SSD utility software which supports S.M.A.R.T and a part of USB-HDD.|9.0.1a|
 |crystaldiskinfo-shizuku-edition|CrystalDiskInfo is a HDD/SSD utility software which supports S.M.A.R.T and a part of USB-HDD.|9.0.1a|
-|crystaldiskinfo|HDD/SSD utility software which supports S.M.A.R.T and a part of USB-HDD|9.0.1a|
+|crystaldiskinfo|HDD/SSD utility software which supports S.M.A.R.T and a part of USB-HDD|9.1.0|
 |evcxr|An evaluation context for Rust by Google|0.15.1|
 |flutter|Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop|3.10.6|
 |gh-cli|GitHub’s official command line tool|2.21.1|
