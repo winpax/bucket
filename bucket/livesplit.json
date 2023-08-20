@@ -10,11 +10,6 @@
     "autoupdate": {
         "url": "https://github.com/LiveSplit/LiveSplit/releases/download/$version/LiveSplit_$version.zip"
     },
-    "shortcuts": [
-        [
-            "LiveSplit.exe",
-            "LiveSplit"
-        ]
-    ],
+    "shortcuts": [["LiveSplit.exe", "LiveSplit"]],
     "bin": "LiveSplit.exe"
 }

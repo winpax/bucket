@@ -14,12 +14,7 @@
         }
     },
     "bin": "pwsh.exe",
-    "shortcuts": [
-        [
-            "pwsh.exe",
-            "PowerShell"
-        ]
-    ],
+    "shortcuts": [["pwsh.exe", "PowerShell"]],
     "checkver": {
         "url": "https://raw.githubusercontent.com/PowerShell/PowerShell/master/README.md",
         "regex": "\\[rl-windows-64\\].*releases/download/v([\\d.]+)/PowerShell"

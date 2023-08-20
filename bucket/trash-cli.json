@@ -1,13 +1,13 @@
 {
-  "version": "1.0.0",
-  "description": "Cross platform cli for moving files into the trash",
-  "homepage": "https://github.com/jewlexx/trashed",
-  "checkver": "github",
-  "url": "https://github.com/jewlexx/trashed/releases/download/v1.0.0/trash.exe",
-  "hash": "9025b9a13aeb48c72075bf5f31d5907a86b6cc6d10f1aea8322da572c442dad5",
-  "autoupdate": {
-    "url": "https://github.com/jewlexx/trashed/releases/download/v$version/trash.exe"
-  },
-  "shortcuts": [["trash.exe", "trash"]],
-  "bin": "trash.exe"
+    "version": "1.0.0",
+    "description": "Cross platform cli for moving files into the trash",
+    "homepage": "https://github.com/jewlexx/trashed",
+    "checkver": "github",
+    "url": "https://github.com/jewlexx/trashed/releases/download/v1.0.0/trash.exe",
+    "hash": "9025b9a13aeb48c72075bf5f31d5907a86b6cc6d10f1aea8322da572c442dad5",
+    "autoupdate": {
+        "url": "https://github.com/jewlexx/trashed/releases/download/v$version/trash.exe"
+    },
+    "shortcuts": [["trash.exe", "trash"]],
+    "bin": "trash.exe"
 }

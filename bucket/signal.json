@@ -14,12 +14,7 @@
         }
     },
     "bin": "signal.exe",
-    "shortcuts": [
-        [
-            "signal.exe",
-            "Signal"
-        ]
-    ],
+    "shortcuts": [["signal.exe", "Signal"]],
     "checkver": {
         "url": "https://updates.signal.org/desktop/latest.yml",
         "regex": "version:\\s([\\d.]+)"

@@ -1,18 +1,18 @@
 {
-  "version": "2.21.1",
-  "architecture": {
-    "32bit": {
-      "url": "https://github.com/cli/cli/releases/download/v2.21.1/gh_2.21.1_windows_386.zip",
-      "bin": ["bin/gh.exe"],
-      "hash": "6e18a591d9d11502a7fb97659ba80412f05d87b28ca9f045af420601d9f1101c"
+    "version": "2.21.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/cli/cli/releases/download/v2.21.1/gh_2.21.1_windows_386.zip",
+            "bin": ["bin/gh.exe"],
+            "hash": "6e18a591d9d11502a7fb97659ba80412f05d87b28ca9f045af420601d9f1101c"
+        },
+        "64bit": {
+            "url": "https://github.com/cli/cli/releases/download/v2.21.1/gh_2.21.1_windows_amd64.zip",
+            "bin": ["bin/gh.exe"],
+            "hash": "e06aff75308d6cef653092eb39a3fcfad5cb8fab6eba9089c21bc05ff137c900"
+        }
     },
-    "64bit": {
-      "url": "https://github.com/cli/cli/releases/download/v2.21.1/gh_2.21.1_windows_amd64.zip",
-      "bin": ["bin/gh.exe"],
-      "hash": "e06aff75308d6cef653092eb39a3fcfad5cb8fab6eba9089c21bc05ff137c900"
-    }
-  },
-  "homepage": "https://github.com/cli/cli",
-  "license": "MIT",
-  "description": "GitHub’s official command line tool"
+    "homepage": "https://github.com/cli/cli",
+    "license": "MIT",
+    "description": "GitHub’s official command line tool"
 }

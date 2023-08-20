@@ -1,14 +1,14 @@
 {
-  "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
-  "description": "A cargo subcommand for displaying when Rust dependencies are out of date",
-  "homepage": "https://github.com/kbknapp/cargo-outdated",
-  "license": "MIT",
-  "version": "0.11.2",
-  "bin": "cargo-outdated.exe",
-  "hash": "E69BBBA6A836F192EFE382AE68B357B393CB91FC4D7EBD63E9D738E698D39C3F",
-  "url": "https://github.com/kbknapp/cargo-outdated/releases/download/v0.11.2/cargo-outdated-0.11.2-x86_64-pc-windows-msvc.zip",
-  "checkver": "github",
-  "autoupdate": {
-    "url": "https://github.com/kbknapp/cargo-outdated/releases/download/v$version/cargo-outdated-0.11.2-x86_64-pc-windows-msvc.zip"
-  }
+    "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
+    "description": "A cargo subcommand for displaying when Rust dependencies are out of date",
+    "homepage": "https://github.com/kbknapp/cargo-outdated",
+    "license": "MIT",
+    "version": "0.11.2",
+    "bin": "cargo-outdated.exe",
+    "hash": "E69BBBA6A836F192EFE382AE68B357B393CB91FC4D7EBD63E9D738E698D39C3F",
+    "url": "https://github.com/kbknapp/cargo-outdated/releases/download/v0.11.2/cargo-outdated-0.11.2-x86_64-pc-windows-msvc.zip",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/kbknapp/cargo-outdated/releases/download/v$version/cargo-outdated-0.11.2-x86_64-pc-windows-msvc.zip"
+    }
 }
