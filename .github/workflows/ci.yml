@@ -3,8 +3,8 @@ name: Tests
 on:
   push:
     branches:
-      - 'main'
-      - 'master'
+      - "main"
+      - "master"
   pull_request:
   workflow_dispatch:
 
@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@main
         with:
           fetch-depth: 2
-          path: my_bucket
+          path: personal-scoop
       - name: Checkout Scoop
         uses: actions/checkout@main
         with:
@@ -32,7 +32,7 @@ jobs:
         shell: powershell
         run: |
           $env:SCOOP_HOME="$(Convert-Path '.\scoop_core')"
-          .\my_bucket\bin\test.ps1
+          .\personal-scoop\bin\test.ps1
   test_pwsh:
     name: PowerShell
     runs-on: windows-latest
@@ -41,7 +41,7 @@ jobs:
         uses: actions/checkout@main
         with:
           fetch-depth: 2
-          path: my_bucket
+          path: personal-scoop
       - name: Checkout Scoop
         uses: actions/checkout@main
         with:
@@ -56,4 +56,4 @@ jobs:
         shell: pwsh
         run: |
           $env:SCOOP_HOME="$(Convert-Path '.\scoop_core')"
-          .\my_bucket\bin\test.ps1
+          .\personal-scoop\bin\test.ps1

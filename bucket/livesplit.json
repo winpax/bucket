@@ -2,6 +2,7 @@
     "version": "1.8.26",
     "description": "A sleek, highly customizable timer for speedrunners.",
     "homepage": "http://livesplit.org/",
+    "license": "MIT",
     "checkver": {
         "github": "https://github.com/LiveSplit/LiveSplit"
     },
