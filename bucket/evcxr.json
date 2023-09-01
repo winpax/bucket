@@ -5,7 +5,9 @@
     "version": "0.15.1",
     "license": "Apache-2.0",
     "url": "https://github.com/evcxr/evcxr/releases/download/v0.15.1/evcxr-v0.15.1-x86_64-pc-windows-msvc.zip",
-    "extract_dir": "evcxr-v$version-x86_64-pc-windows-msvc",
+    "pre_install": [
+        "mv $dir/evcxr-v$version-x86_64-pc-windows-msvc/evcxr.exe $dir/"
+    ],
     "hash": "e62d026bc71c3dd9b584fdc2e7e3ff9cbc8113e5e8de41410f95419553d8ce2b",
     "bin": "evcxr.exe",
     "autoupdate": {
