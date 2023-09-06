@@ -27,7 +27,7 @@ The following is a list of the apps that are included
 |livesplit|A sleek, highly customizable timer for speedrunners.|1.8.26|
 |powershell|PowerShell Core, the cross-platform task automation and configuration management framework/tool.|7.3.6|
 |quickignore|Lightweight program to download gitignore templates from gitignore.io|1.0.1|
-|scarab|An installer for Hollow Knight mods written in Avalonia.|2.0.0.0|
+|scarab|An installer for Hollow Knight mods written in Avalonia.|2.1.0.0|
 |sfsu|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.4.10|
 |signal|A cross-platform encrypted messaging service.|6.29.1|
 |switch-hitter|Switch Hitter is a keyboard diagnostic program that allows for key actuation testing and aims to alleviate difficulty in switch bounce/chatter diagnosis.|1.0|
