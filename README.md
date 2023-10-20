@@ -29,7 +29,7 @@ The following is a list of the apps that are included
 |quickignore|Lightweight program to download gitignore templates from gitignore.io|1.0.1|
 |scarab|An installer for Hollow Knight mods written in Avalonia.|2.3.0.0|
 |sfsu|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.4.15|
-|signal|A cross-platform encrypted messaging service.|6.34.1|
+|signal|A cross-platform encrypted messaging service.|6.35.0|
 |switch-hitter|Switch Hitter is a keyboard diagnostic program that allows for key actuation testing and aims to alleviate difficulty in switch bounce/chatter diagnosis.|1.0|
 |trash-cli|Cross platform cli for moving files into the trash|1.0.0|
 |trunk|Build, bundle & ship your Rust WASM application to the web. |0.17.5|
