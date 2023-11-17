@@ -5,11 +5,11 @@
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jewlexx/sfsu/releases/download/v1.5.0/sfsu-x86_64.exe#sfsu.exe",
+            "url": "https://github.com/jewlexx/sfsu/releases/download/v1.5.0/sfsu-x86_64.exe#/sfsu.exe",
             "hash": "a39b036745220978c33406c297d8674f5af86f56b3c2291274bc9be7f188464c"
         },
         "32bit": {
-            "url": "https://github.com/jewlexx/sfsu/releases/download/v1.5.0/sfsu-i686.exe#sfsu.exe",
+            "url": "https://github.com/jewlexx/sfsu/releases/download/v1.5.0/sfsu-i686.exe#/sfsu.exe",
             "hash": "4db0e903d293eb4f6d6191e737713df34d8da2edcff6532c8e31df410ec860b1"
         }
     },
@@ -19,13 +19,13 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/jewlexx/sfsu/releases/download/v$version/sfsu-x86_64.exe#sfsu.exe",
+                "url": "https://github.com/jewlexx/sfsu/releases/download/v$version/sfsu-x86_64.exe#/sfsu.exe",
                 "hash": {
                     "url": "$url.sha256"
                 }
             },
             "32bit": {
-                "url": "https://github.com/jewlexx/sfsu/releases/download/v$version/sfsu-i686.exe#sfsu.exe",
+                "url": "https://github.com/jewlexx/sfsu/releases/download/v$version/sfsu-i686.exe#/sfsu.exe",
                 "hash": {
                     "url": "$url.sha256"
                 }
