@@ -6,11 +6,11 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/jewlexx/sfsu/releases/download/v1.5.0/sfsu-x86_64.exe#sfsu.exe",
-            "hash": "2008b43656f5b3f0b33cb077f16adab20f567c87d18c13f43a1b057151c85d6a"
+            "hash": "a39b036745220978c33406c297d8674f5af86f56b3c2291274bc9be7f188464c"
         },
         "32bit": {
             "url": "https://github.com/jewlexx/sfsu/releases/download/v1.5.0/sfsu-i686.exe#sfsu.exe",
-            "hash": "d246f112e708aebddf16d8b3283cbf698c9f54018baf4fa17442a1bd42111985"
+            "hash": "4db0e903d293eb4f6d6191e737713df34d8da2edcff6532c8e31df410ec860b1"
         }
     },
     "notes": "In order to replace scoop commands use `Invoke-Expression (&sfsu hook)` in your Powershell profile.",
