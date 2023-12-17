@@ -2,11 +2,11 @@
     "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
     "description": "An evaluation context for Rust",
     "homepage": "https://github.com/evcxr/evcxr",
-    "version": "0.16.0",
+    "version": "0.17.0",
     "license": "Apache-2.0",
-    "url": "https://github.com/evcxr/evcxr/releases/download/v0.16.0/evcxr-v0.16.0-x86_64-pc-windows-msvc.zip",
+    "url": "https://github.com/evcxr/evcxr/releases/download/v0.17.0/evcxr-v0.17.0-x86_64-pc-windows-msvc.zip",
     "pre_install": "mv $dir/evcxr-v$version-x86_64-pc-windows-msvc/evcxr.exe $dir/",
-    "hash": "8c1cedac8ec099f537020e4ea95bcbbd162292198e3f5dde3302b16411a5daa3",
+    "hash": "1deb22bed9604384a2bfddfcb0455bc5033b9efc25f0dd7c9c19b099c06d6c13",
     "bin": "evcxr.exe",
     "autoupdate": {
         "url": "https://github.com/evcxr/evcxr/releases/download/v$version/evcxr-v$version-x86_64-pc-windows-msvc.zip"
