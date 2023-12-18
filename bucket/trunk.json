@@ -1,10 +1,10 @@
 {
-    "version": "0.18.0",
+    "version": "0.18.1",
     "homepage": "https://github.com/thedodd/trunk",
     "description": "Build, bundle & ship your Rust WASM application to the web. ",
     "bin": "trunk.exe",
-    "url": "https://github.com/thedodd/trunk/releases/download/v0.18.0/trunk-x86_64-pc-windows-msvc.zip",
-    "hash": "f94329f20e5b9be02033978dc7e64585516293a404931c6cc8cd1df5181aba75",
+    "url": "https://github.com/thedodd/trunk/releases/download/v0.18.1/trunk-x86_64-pc-windows-msvc.zip",
+    "hash": "80b6a5d3280383ad7edbc9165a3d505f43e9ad355e7901304e66e569a30ac785",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/thedodd/trunk/releases/download/v$version/trunk-x86_64-pc-windows-msvc.zip"
