@@ -32,7 +32,7 @@ The following is a list of the apps that are included
 |signal|A cross-platform encrypted messaging service.|6.42.0|
 |switch-hitter|Switch Hitter is a keyboard diagnostic program that allows for key actuation testing and aims to alleviate difficulty in switch bounce/chatter diagnosis.|1.0|
 |trash-cli|Cross platform cli for moving files into the trash|1.0.0|
-|trunk|Build, bundle & ship your Rust WASM application to the web. |0.18.1|
+|trunk|Build, bundle & ship your Rust WASM application to the web. |0.18.2|
 
 
 **Made with 💗 by Juliette Cordor**
