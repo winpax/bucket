@@ -19,13 +19,13 @@ The following is a list of the apps that are included
 |crystaldiskinfo-shizuku-edition|CrystalDiskInfo is a HDD/SSD utility software which supports S.M.A.R.T and a part of USB-HDD.|9.1.1|
 |crystaldiskinfo|HDD/SSD utility software which supports S.M.A.R.T and a part of USB-HDD|9.1.1|
 |evcxr|An evaluation context for Rust|0.17.0|
-|flutter|Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop|3.16.6|
+|flutter|Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop|3.16.7|
 |gh-cli|GitHub’s official command line tool|2.21.1|
 |ignoreit|Quickly load .gitignore templates|2.4.10|
 |lapce-nightly|Lightning-fast and Powerful Code Editor written in Rust|nightly|
 |LightHost|A simple VST/AU, crossplatform host for OS X, Windows, and Linux that sits in the menubar.|1.2.1|
 |livesplit|A sleek, highly customizable timer for speedrunners.|1.8.27|
-|powershell|PowerShell Core, the cross-platform task automation and configuration management framework/tool.|7.4.0|
+|powershell|PowerShell Core, the cross-platform task automation and configuration management framework/tool.|7.4.1|
 |quickignore|Lightweight program to download gitignore templates from gitignore.io|1.0.1|
 |scarab|An installer for Hollow Knight mods written in Avalonia.|2.5.0.0|
 |sfsu|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.8.1|
