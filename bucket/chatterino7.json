@@ -2,7 +2,7 @@
     "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
     "description": "Chat client for Twitch, with added 7tv emote support",
     "bin": "chatterino.exe",
-    "hash": "B714F75B2501CE6AB2A1D0CEF0C7AA3904067C0B533ACC60ADDA72AEBE7CE473",
+    "hash": "8bdbb41d2b38845d8500af47c352bbab307751da8b40169eeb3895ea3a7607de",
     "shortcuts": [
         [
             "chatterino.exe",
@@ -10,8 +10,8 @@
         ]
     ],
     "extract_dir": "Chatterino2",
-    "version": "7.4.0",
-    "url": "https://github.com/SevenTV/chatterino7/releases/download/v7.4.0/chatterino-windows-x86-64.zip",
+    "version": "7.4.6",
+    "url": "https://github.com/SevenTV/chatterino7/releases/download/v7.4.6/Chatterino7.Portable.zip",
     "homepage": "https://github.com/SevenTV/chatterino7",
     "license": "MIT",
     "checkver": "github",
