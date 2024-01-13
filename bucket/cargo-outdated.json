@@ -9,6 +9,6 @@
     "url": "https://github.com/kbknapp/cargo-outdated/releases/download/v0.11.2/cargo-outdated-0.11.2-x86_64-pc-windows-msvc.zip",
     "checkver": "github",
     "autoupdate": {
-        "url": "https://github.com/kbknapp/cargo-outdated/releases/download/v$version/cargo-outdated-0.11.2-x86_64-pc-windows-msvc.zip"
+        "url": "https://github.com/kbknapp/cargo-outdated/releases/download/v$version/cargo-outdated-$version-x86_64-pc-windows-msvc.zip"
     }
 }
