@@ -8,17 +8,26 @@
     "architecture": {
         "64bit": {
             "shortcuts": [
-                ["DiskInfo64S.exe", "CrystalDiskInfo Kurei Kei Edition"]
+                [
+                    "DiskInfo64S.exe",
+                    "CrystalDiskInfo Kurei Kei Edition"
+                ]
             ]
         },
         "32bit": {
             "shortcuts": [
-                ["DiskInfo32S.exe", "CrystalDiskInfo Kurei Kei Edition"]
+                [
+                    "DiskInfo32S.exe",
+                    "CrystalDiskInfo Kurei Kei Edition"
+                ]
             ]
         },
         "arm64": {
             "shortcuts": [
-                ["DiskInfoA64S.exe", "CrystalDiskInfo Kurei Kei Edition"]
+                [
+                    "DiskInfoA64S.exe",
+                    "CrystalDiskInfo Kurei Kei Edition"
+                ]
             ]
         }
     },
@@ -27,7 +36,10 @@
         "    New-Item \"$dir\\DiskInfo.ini\" -ItemType File | Out-Null",
         "}"
     ],
-    "persist": ["DiskInfo.ini", "Smart"],
+    "persist": [
+        "DiskInfo.ini",
+        "Smart"
+    ],
     "checkver": {
         "url": "https://osdn.net/projects/crystaldiskinfo/",
         "regex": "releases\\/(?<release>[\\d]+)\">CrystalDiskInfo ([\\w.]+)<"

@@ -9,6 +9,11 @@
     "autoupdate": {
         "url": "https://github.com/jewlexx/trashed/releases/download/v$version/trash.exe"
     },
-    "shortcuts": [["trash.exe", "trash"]],
+    "shortcuts": [
+        [
+            "trash.exe",
+            "trash"
+        ]
+    ],
     "bin": "trash.exe"
 }

@@ -9,5 +9,10 @@
         }
     },
     "bin": "lapce.exe",
-    "shortcuts": [["lapce.exe", "Lapce"]]
+    "shortcuts": [
+        [
+            "lapce.exe",
+            "Lapce"
+        ]
+    ]
 }

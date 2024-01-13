@@ -13,15 +13,38 @@
     "pre_uninstall": "if (Test-Path \"$dir\\AMD_RC2t7*.dll\") { Copy-Item \"$dir\\AMD_RC2t7*.dll\" \"$persist_dir\\\" }",
     "architecture": {
         "64bit": {
-            "bin": [["DiskInfo64.exe", "DiskInfo"]],
-            "shortcuts": [["DiskInfo64.exe", "CrystalDiskInfo"]]
+            "bin": [
+                [
+                    "DiskInfo64.exe",
+                    "DiskInfo"
+                ]
+            ],
+            "shortcuts": [
+                [
+                    "DiskInfo64.exe",
+                    "CrystalDiskInfo"
+                ]
+            ]
         },
         "32bit": {
-            "bin": [["DiskInfo32.exe", "DiskInfo"]],
-            "shortcuts": [["DiskInfo32.exe", "CrystalDiskInfo"]]
+            "bin": [
+                [
+                    "DiskInfo32.exe",
+                    "DiskInfo"
+                ]
+            ],
+            "shortcuts": [
+                [
+                    "DiskInfo32.exe",
+                    "CrystalDiskInfo"
+                ]
+            ]
         }
     },
-    "persist": ["Smart", "DiskInfo.ini"],
+    "persist": [
+        "Smart",
+        "DiskInfo.ini"
+    ],
     "checkver": "releases/(?<release>\\d+)\">CrystalDiskInfo\\s+([\\w.]+)<",
     "autoupdate": {
         "url": "https://free.nchc.org.tw/osdn//crystaldiskinfo/$matchRelease/CrystalDiskInfo$underscoreVersion.zip",
