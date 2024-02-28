@@ -1,16 +1,16 @@
 {
-    "version": "1.8.5",
+    "version": "1.8.6",
     "description": "Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.",
     "homepage": "https://github.com/jewlexx/sfsu",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jewlexx/sfsu/releases/download/v1.8.5/sfsu-x86_64.exe#/sfsu.exe",
-            "hash": "1ed74bfdbc373781e0f49fce8e1827b0c89bf8516564f87f8af5103c4ad6a848"
+            "url": "https://github.com/jewlexx/sfsu/releases/download/v1.8.6/sfsu-x86_64.exe#/sfsu.exe",
+            "hash": "c871ebba8daf92073e1dd861d0e5894efa189208421f9ab75b79088e2817c969"
         },
         "32bit": {
-            "url": "https://github.com/jewlexx/sfsu/releases/download/v1.8.5/sfsu-i686.exe#/sfsu.exe",
-            "hash": "3fcf6c2999da2f5675a0b0064508f84a01cb0e3a435bbf3b01bf1060a17c7c63"
+            "url": "https://github.com/jewlexx/sfsu/releases/download/v1.8.6/sfsu-i686.exe#/sfsu.exe",
+            "hash": "afe3d7cce11a9fb0158e84a39c34334f9fe55f8dbca50afa24a1b4100aa26783"
         }
     },
     "notes": "In order to replace scoop commands use `Invoke-Expression (&sfsu hook)` in your Powershell profile.",
