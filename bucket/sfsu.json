@@ -29,6 +29,12 @@
                 "hash": {
                     "url": "$url.sha256"
                 }
+            },
+            "arm64": {
+                "url": "https://github.com/jewlexx/sfsu/releases/download/v$version/sfsu-aarch64.exe#/sfsu.exe",
+                "hash": {
+                    "url": "$url.sha256"
+                }
             }
         }
     }
