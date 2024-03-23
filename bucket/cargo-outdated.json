@@ -3,10 +3,10 @@
     "description": "A cargo subcommand for displaying when Rust dependencies are out of date",
     "homepage": "https://github.com/kbknapp/cargo-outdated",
     "license": "MIT",
-    "version": "0.14.0",
+    "version": "0.15.0",
     "bin": "cargo-outdated.exe",
-    "hash": "74a24da7ae830aa4ea22d41bcf9c941b41ed9f39e5ebf662ffc2523137d896b4",
-    "url": "https://github.com/kbknapp/cargo-outdated/releases/download/v0.14.0/cargo-outdated-0.14.0-x86_64-pc-windows-msvc.zip",
+    "hash": "273a51219442f560172ce391cf2186455f6a8fb4031b612fd740f4f32402e0d1",
+    "url": "https://github.com/kbknapp/cargo-outdated/releases/download/v0.15.0/cargo-outdated-0.15.0-x86_64-pc-windows-msvc.zip",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/kbknapp/cargo-outdated/releases/download/v$version/cargo-outdated-$version-x86_64-pc-windows-msvc.zip"
