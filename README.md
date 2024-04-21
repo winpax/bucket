@@ -13,7 +13,7 @@ The following is a list of the apps that are included
 |android-sdk|A component for the Android SDK, which includes the complete set of development and debugging tools for Android.|4333796|
 |cargo-binstall|Binary installation for rust projects|1.6.4|
 |cargo-outdated|A cargo subcommand for displaying when Rust dependencies are out of date|0.15.0|
-|chatterino7|Chat client for Twitch, with added 7tv emote support|7.4.6|
+|chatterino7|Chat client for Twitch, with added 7tv emote support|7.5.0|
 |Clipboard|📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.|0.9.0.1|
 |crystaldiskinfo-kurei-kei-edition|CrystalDiskInfo is a HDD/SSD utility software which supports S.M.A.R.T and a part of USB-HDD.|9.1.1|
 |crystaldiskinfo-shizuku-edition|CrystalDiskInfo is a HDD/SSD utility software which supports S.M.A.R.T and a part of USB-HDD.|9.1.1|
