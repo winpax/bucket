@@ -15,5 +15,18 @@
     "checkver": "github",
     "homepage": "https://github.com/cli/cli",
     "license": "MIT",
-    "description": "GitHub's official command line tool"
+    "description": "GitHub's official command line tool",
+    "autoupdate": {
+        "architecture": {
+            "32bit": {
+                "url": "https://github.com/cli/cli/releases/download/v$version/gh_$version_windows_386.zip"
+            },
+            "64bit": {
+                "url": "https://github.com/cli/cli/releases/download/v$version/gh_$version_windows_amd64.zip"
+            },
+            "arm64": {
+                "url": "https://github.com/cli/cli/releases/download/v$version/gh_$version_windows_arm64.zip"
+            }
+        }
+    }
 }
