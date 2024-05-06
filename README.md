@@ -25,8 +25,8 @@ The following is a list of the apps that are included
 |powershell|PowerShell Core, the cross-platform task automation and configuration management framework/tool.|7.4.2|
 |quickignore|Lightweight program to download gitignore templates from gitignore.io|1.0.1|
 |scarab|An installer for Hollow Knight mods written in Avalonia.|2.5.0.0|
-|sfsu-beta|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.11.0-beta.6|
-|sfsu|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.11.0|
+|sfsu-beta|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.12.0-beta.2|
+|sfsu|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.11.2|
 |signal|A cross-platform encrypted messaging service.|7.7.0|
 |switch-hitter|Switch Hitter is a keyboard diagnostic program that allows for key actuation testing and aims to alleviate difficulty in switch bounce/chatter diagnosis.|1.0|
 |trash-cli|Cross platform cli for moving files into the trash|1.0.0|
