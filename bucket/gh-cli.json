@@ -12,7 +12,8 @@
             "hash": "e06aff75308d6cef653092eb39a3fcfad5cb8fab6eba9089c21bc05ff137c900"
         }
     },
+    "checkver": "github",
     "homepage": "https://github.com/cli/cli",
     "license": "MIT",
-    "description": "GitHub’s official command line tool"
+    "description": "GitHub's official command line tool"
 }
