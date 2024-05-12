@@ -1,0 +1,16 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
+    "description": "Chat client for https://twitch.tv ",
+    "bin": "chatterino.exe",
+    "hash": "4c6d84fd75b5d69eb998780626a3656ce684259d50cab68ab721f00d40fd6add",
+    "shortcuts": [["chatterino.exe", "Chatterino"]],
+    "extract_dir": "Chatterino2",
+    "version": "2.5.1",
+    "url": "https://github.com/Chatterino/chatterino2/releases/download/v2.5.1/Chatterino.Portable.zip",
+    "homepage": "https://github.com/Chatterino/chatterino2",
+    "license": "MIT",
+    "checkver": "github",
+    "autoupdate": {
+        "url": "https://github.com/Chatterino/chatterino2/releases/download/v$version/Chatterino.Portable.zip"
+    }
+}
