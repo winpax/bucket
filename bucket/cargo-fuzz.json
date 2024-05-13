@@ -4,7 +4,7 @@
     "homepage": "https://github.com/rust-fuzz/cargo-fuzz",
     "license": "Apache-2.0 OR MIT",
     "version": "0.12.0",
-    "bin": "cargo-outdated.exe",
+    "bin": "cargo-fuzz.exe",
     "architecture": {
         "64bit": {
             "url": "https://github.com/rust-fuzz/cargo-fuzz/releases/download/0.12.0/cargo-fuzz-0.12.0-x86_64-pc-windows-msvc.zip"
