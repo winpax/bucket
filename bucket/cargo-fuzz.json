@@ -1,0 +1,21 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
+    "description": "Command line helpers for fuzzing",
+    "homepage": "https://github.com/rust-fuzz/cargo-fuzz",
+    "license": "Apache-2.0 OR MIT",
+    "version": "0.12.0",
+    "bin": "cargo-outdated.exe",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/rust-fuzz/cargo-fuzz/releases/download/0.12.0/cargo-fuzz-0.12.0-x86_64-pc-windows-msvc.zip"
+        }
+    },
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/rust-fuzz/cargo-fuzz/releases/download/$version/cargo-fuzz-$version-x86_64-pc-windows-msvc.zip"
+            }
+        }
+    }
+}
