@@ -14,5 +14,16 @@
     },
     "homepage": "https://github.com/twitchdev/twitch-cli",
     "license": "Apache-2.0",
-    "description": "CLI for Twitch's developer offerings"
+    "description": "CLI for Twitch's developer offerings",
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/twitchdev/twitch-cli/releases/download/v$version/twitch-cli_$version_Windows_x86_64.zip"
+            },
+            "32bit": {
+                "url": "https://github.com/twitchdev/twitch-cli/releases/download/v$version/twitch-cli_$version_Windows_i386.zip"
+            }
+        }
+    }
 }
