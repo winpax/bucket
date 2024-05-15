@@ -8,11 +8,13 @@
     "architecture": {
         "64bit": {
             "url": "https://github.com/est31/cargo-udeps/releases/download/v0.1.45/cargo-udeps-v0.1.45-x86_64-pc-windows-msvc.zip",
-            "extract_dir": "cargo-udeps-v0.1.45-x86_64-pc-windows-msvc"
+            "extract_dir": "cargo-udeps-v0.1.45-x86_64-pc-windows-msvc",
+            "hash": ""
         },
         "arm64": {
             "url": "https://github.com/est31/cargo-udeps/releases/download/v0.1.45/cargo-udeps-v0.1.45-aarch64-pc-windows-msvc.zip",
-            "extract_dir": "cargo-udeps-v0.1.45-aarch64-pc-windows-msvc"
+            "extract_dir": "cargo-udeps-v0.1.45-aarch64-pc-windows-msvc",
+            "hash": ""
         }
     },
     "checkver": "github",
