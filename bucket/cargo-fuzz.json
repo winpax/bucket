@@ -7,7 +7,8 @@
     "bin": "cargo-fuzz.exe",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/rust-fuzz/cargo-fuzz/releases/download/0.12.0/cargo-fuzz-0.12.0-x86_64-pc-windows-msvc.zip"
+            "url": "https://github.com/rust-fuzz/cargo-fuzz/releases/download/0.12.0/cargo-fuzz-0.12.0-x86_64-pc-windows-msvc.zip",
+            "hash": "70ddcf1d31a40b8563e501d15ec676b9e81d7bad9e346a19afe8bb45286a0a52"
         }
     },
     "checkver": "github",
