@@ -9,10 +9,13 @@
         }
     },
     "bin": "lapce.exe",
-    "shortcuts": [
-        [
-            "lapce.exe",
-            "Lapce"
-        ]
-    ]
+    "shortcuts": [["lapce.exe", "Lapce"]],
+    "checkver": {
+        "script": [
+            "$date = (Get-Date).ToString('yyyy-MM-dd')",
+            "$ver = \"nightly-$date\"",
+            "$ver"
+        ],
+        "regex": "(\\S+)"
+    }
 }
