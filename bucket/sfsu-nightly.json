@@ -1,0 +1,27 @@
+{
+    "version": "1509882987",
+    "description": "Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.",
+    "homepage": "https://github.com/winpax/sfsu",
+    "license": "Apache-2.0",
+    "url": "https://api.github.com/repos/winpax/sfsu/actions/artifacts/1509882987",
+    "notes": "In order to replace scoop commands use `Invoke-Expression (&sfsu hook)` in your Powershell profile.",
+    "architecture": {
+        "64bit": {
+            "bin": "sfsu-x86_64.exe"
+        },
+        "32bit": {
+            "bin": "sfsu-i686.exe"
+        },
+        "arm64": {
+            "bin": "sfsu-aarch64.exe"
+        }
+    },
+    "checkver": {
+        "url": "https://api.github.com/repositories/558838965/actions/artifacts",
+        "jsonpath": "$.artifacts[?(@.name == 'package.zip' && @.expired == false && @.workflow_run.head_branch == 'trunk')].id",
+        "regex": "(\\d+)"
+    },
+    "autoupdate": {
+        "url": "https://api.github.com/repositories/558838965/actions/artifacts/$version"
+    }
+}
