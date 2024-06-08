@@ -10,7 +10,7 @@ The following is a list of the apps that are included
 
 | Name       | Description       | Version       |
 | ---------- | ----------------- | ------------- |
-|cargo-binstall|Binary installation for rust projects|1.6.8|
+|cargo-binstall|Binary installation for rust projects|1.6.9|
 |cargo-fuzz|Command line helpers for fuzzing|0.12.0|
 |cargo-outdated|A cargo subcommand for displaying when Rust dependencies are out of date|0.15.0|
 |cargo-udeps|Find unused dependencies in Cargo.toml|0.1.47|
