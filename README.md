@@ -28,7 +28,7 @@ The following is a list of the apps that are included
 |quickignore|Lightweight program to download gitignore templates from gitignore.io|1.0.1|
 |scarab|An installer for Hollow Knight mods written in Avalonia.|2.5.0.0|
 |sfsu-beta|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.14.0-beta.4|
-|sfsu|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.13.4|
+|sfsu|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.14.0|
 |signal|A cross-platform encrypted messaging service.|7.11.1|
 |trash-cli|Cross platform cli for moving files into the trash|1.0.0|
 |trunk|Build, bundle & ship your Rust WASM application to the web. |0.20.2|
