@@ -10,7 +10,8 @@
         }
     },
     "persist": ["screenshots", "video", "presets", "install"],
-    "bin": "sfsu.exe",
+    "shortcuts": [["ADBAppControl.exe", "ADB AppControl"]],
+    "bin": "ADBAppControl.exe",
     "checkver": {
         "regex": "Download ADB AppControl ([\\d.]+)"
     }
