@@ -9,6 +9,7 @@
             "hash": "80c2fcd31c553ba05ab0a04cad8e9cc4e68b66eecd278a7397339e7090097dd4"
         }
     },
+    "persist": ["screenshots", "video", "presets", "install"],
     "bin": "sfsu.exe",
     "checkver": {
         "regex": "Download ADB AppControl ([\\d.]+)"
