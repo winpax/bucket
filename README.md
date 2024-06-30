@@ -33,7 +33,7 @@ The following is a list of the apps that are included
 |signal|A cross-platform encrypted messaging service.|7.14.0|
 |trash-cli|Cross platform cli for moving files into the trash|1.0.0|
 |trunk|Build, bundle & ship your Rust WASM application to the web. |0.20.2|
-|twitch-cli|CLI for Twitch's developer offerings|1.1.22|
+|twitch-cli|CLI for Twitch's developer offerings|1.1.23|
 
 
 **Made with 💗 by Juliette Cordor**
