@@ -1,0 +1,24 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
+    "description": "Cargo plugin for linting your dependencies",
+    "homepage": "https://github.com/EmbarkStudios/cargo-deny",
+    "license": "Apache-2.0 OR MIT",
+    "version": "0.16.0",
+    "bin": "cargo-deny.exe",
+    "hash": "ba744b92d69823b82a9445bbc41f31e3ddeaac8b3dfdb5436ea2b2298e72f3fb",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/EmbarkStudios/cargo-deny/releases/download/0.16.0/cargo-deny-0.16.0-x86_64-pc-windows-msvc.tar.gz",
+            "extract_dir": "cargo-deny-0.16.0-x86_64-pc-windows-msvc"
+        }
+    },
+    "checkver": "github",
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/EmbarkStudios/cargo-deny/releases/download/$version/cargo-deny-$version-x86_64-pc-windows-msvc.tar.gz",
+                "extract_dir": "cargo-deny-$version-x86_64-pc-windows-msvc"
+            }
+        }
+    }
+}
