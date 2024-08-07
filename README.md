@@ -20,7 +20,7 @@ The following is a list of the apps that are included
 |chatterino7|Chat client for Twitch, with added 7tv emote support|7.5.1|
 |Clipboard|📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.|0.9.0.1|
 |evcxr|An evaluation context for Rust|0.17.0|
-|flutter|Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop|3.22.3|
+|flutter|Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop|3.24.0|
 |gh-cli|GitHub's official command line tool|2.54.0|
 |ignoreit|Quickly load .gitignore templates|2.4.10|
 |lapce-nightly|Lightning-fast and Powerful Code Editor written in Rust|nightly|
@@ -31,7 +31,7 @@ The following is a list of the apps that are included
 |scarab|An installer for Hollow Knight mods written in Avalonia.|2.5.0.0|
 |sfsu-beta|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.14.0-beta.4|
 |sfsu|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.14.0|
-|signal|A cross-platform encrypted messaging service.|7.18.0|
+|signal|A cross-platform encrypted messaging service.|7.19.0|
 |trash-cli|Cross platform cli for moving files into the trash|1.0.0|
 |trunk|Build, bundle & ship your Rust WASM application to the web. |0.20.2|
 |twitch-cli|CLI for Twitch's developer offerings|1.1.24|
