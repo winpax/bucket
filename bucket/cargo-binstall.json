@@ -3,10 +3,10 @@
     "description": "Binary installation for rust projects",
     "homepage": "https://github.com/cargo-bins/cargo-binstall",
     "license": "GPL-3.0-only",
-    "version": "1.9.0",
+    "version": "1.10.0",
     "bin": "cargo-binstall.exe",
-    "hash": "31072a35ce5f2222d9acbc6aa4a8aa5077efe08b7197d68f4a698d736df4704f",
-    "url": "https://github.com/cargo-bins/cargo-binstall/releases/download/v1.9.0/cargo-binstall-x86_64-pc-windows-msvc.full.zip",
+    "hash": "a90c6b2884040cdcf3920510cb5e31708401a077af5e76eabd925c468293bcb3",
+    "url": "https://github.com/cargo-bins/cargo-binstall/releases/download/v1.10.0/cargo-binstall-x86_64-pc-windows-msvc.full.zip",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/cargo-bins/cargo-binstall/releases/download/v$version/cargo-binstall-x86_64-pc-windows-msvc.full.zip"
