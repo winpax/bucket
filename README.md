@@ -21,7 +21,7 @@ The following is a list of the apps that are included
 |Clipboard|📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.|0.9.0.1|
 |evcxr|An evaluation context for Rust|0.17.0|
 |flutter|Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop|3.24.0|
-|gh-cli|GitHub's official command line tool|2.54.0|
+|gh-cli|GitHub's official command line tool|2.55.0|
 |ignoreit|Quickly load .gitignore templates|2.4.10|
 |lapce-nightly|Lightning-fast and Powerful Code Editor written in Rust|nightly|
 |LightHost|A simple VST/AU, crossplatform host for OS X, Windows, and Linux that sits in the menubar.|1.2.1|
