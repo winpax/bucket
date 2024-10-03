@@ -31,7 +31,7 @@ The following is a list of the apps that are included
 |scarab|An installer for Hollow Knight mods written in Avalonia.|2.5.0.0|
 |sfsu-beta|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.14.0-beta.4|
 |sfsu|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.14.0|
-|signal|A cross-platform encrypted messaging service.|7.26.0|
+|signal|A cross-platform encrypted messaging service.|7.27.0|
 |trash-cli|Cross platform cli for moving files into the trash|1.0.0|
 |trunk|Build, bundle & ship your Rust WASM application to the web. |0.20.3|
 |twitch-cli|CLI for Twitch's developer offerings|1.1.24|
