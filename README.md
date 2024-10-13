@@ -11,7 +11,7 @@ The following is a list of the apps that are included
 | Name       | Description       | Version       |
 | ---------- | ----------------- | ------------- |
 |ADBAppControl|A new and handy desktop program, that will allow you to easily manage applications on your android device.|1.8.5|
-|cargo-binstall|Binary installation for rust projects|1.10.7|
+|cargo-binstall|Binary installation for rust projects|1.10.8|
 |cargo-deny|Cargo plugin for linting your dependencies|0.16.1|
 |cargo-fuzz|Command line helpers for fuzzing|0.12.0|
 |cargo-outdated|A cargo subcommand for displaying when Rust dependencies are out of date|0.15.0|
