@@ -33,7 +33,7 @@ The following is a list of the apps that are included
 |sfsu|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.14.0|
 |signal|A cross-platform encrypted messaging service.|7.30.0|
 |trash-cli|Cross platform cli for moving files into the trash|1.0.0|
-|trunk|Build, bundle & ship your Rust WASM application to the web. |0.21.1|
+|trunk|Build, bundle & ship your Rust WASM application to the web. |0.21.2|
 |twitch-cli|CLI for Twitch's developer offerings|1.1.24|
 
 
