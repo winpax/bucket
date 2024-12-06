@@ -1,10 +1,10 @@
 {
     "license": "GPL-3.0",
     "description": "An installer for Hollow Knight mods written in Avalonia.",
-    "hash": "be4eee28d10885f4e6607105e7182f726d441d35783fe8411e67239194c90584",
+    "hash": "c13c323eae6e4464bb83f76afa445eb78751b621953760f53e61890b3c6e1af7",
     "bin": "Scarab.exe",
-    "version": "2.5.0.0",
-    "url": "https://github.com/fifty-six/Scarab/releases/download/v2.5.0.0/windows.zip",
+    "version": "2.6.0.0",
+    "url": "https://github.com/fifty-six/Scarab/releases/download/v2.6.0.0/windows.zip",
     "homepage": "https://github.com/fifty-six/Scarab",
     "checkver": "github",
     "autoupdate": {
