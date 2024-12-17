@@ -1,0 +1,16 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json",
+    "version": "0.2.0",
+    "description": "Fast, reliable and interactive directory deletion tool",
+    "homepage": "https://github.com/jewlexx/dirkill/",
+    "license": "MIT OR Apache-2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/jewlexx/dirkill/releases/download/v0.2.0/dirkill-x86_64-pc-windows-msvc.zip"
+        }
+    },
+    "bin": "dirkill.exe",
+    "checkver": {
+        "github": "https://github.com/jewlexx/dirkill"
+    }
+}
