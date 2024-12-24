@@ -19,7 +19,7 @@ The following is a list of the apps that are included
 |chatterino2|Chat client for https://twitch.tv |2.5.1|
 |chatterino7|Chat client for Twitch, with added 7tv emote support|7.5.1|
 |Clipboard|📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.|0.10.0|
-|dirkill|Fast, reliable and interactive directory deletion tool|0.2.0|
+|dirkill|Fast, reliable and interactive directory deletion tool|0.2.1|
 |evcxr|An evaluation context for Rust|0.17.0|
 |flutter|Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop|3.27.1|
 |gh-cli|GitHub's official command line tool|2.64.0|
@@ -33,7 +33,6 @@ The following is a list of the apps that are included
 |sfsu-beta|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.16.0-beta.5|
 |sfsu|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.15.0|
 |signal|A cross-platform encrypted messaging service.|7.36.1|
-|trash-cli|Cross platform cli for moving files into the trash|1.0.0|
 |trunk|Build, bundle & ship your Rust WASM application to the web. |0.21.5|
 |twitch-cli|CLI for Twitch's developer offerings|1.1.24|
 
