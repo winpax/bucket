@@ -14,8 +14,10 @@
         "github": "https://github.com/jewlexx/dirkill"
     },
     "autoupdate": {
-        "64bit": {
-            "url": "https://github.com/jewlexx/dirkill/releases/download/v$version/dirkill-x86_64-pc-windows-msvc.zip"
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/jewlexx/dirkill/releases/download/v$version/dirkill-x86_64-pc-windows-msvc.zip"
+            }
         }
     }
 }
