@@ -3,18 +3,18 @@
     "description": "Find unused dependencies in Cargo.toml",
     "homepage": "https://github.com/est31/cargo-udeps",
     "license": "Apache-2.0 OR MIT",
-    "version": "0.1.53",
+    "version": "0.1.54",
     "bin": "cargo-udeps.exe",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/est31/cargo-udeps/releases/download/v0.1.53/cargo-udeps-v0.1.53-x86_64-pc-windows-msvc.zip",
-            "extract_dir": "cargo-udeps-v0.1.53-x86_64-pc-windows-msvc",
-            "hash": "83bfad645d73ae39260cc9db70796a7295bebf05958b727355c008db3ae642fd"
+            "url": "https://github.com/est31/cargo-udeps/releases/download/v0.1.54/cargo-udeps-v0.1.54-x86_64-pc-windows-msvc.zip",
+            "extract_dir": "cargo-udeps-v0.1.54-x86_64-pc-windows-msvc",
+            "hash": "c34dc47902d3b9dadf567808ecab19863ab0bd01c039c0cca5df938efd59eb79"
         },
         "arm64": {
-            "url": "https://github.com/est31/cargo-udeps/releases/download/v0.1.53/cargo-udeps-v0.1.53-aarch64-pc-windows-msvc.zip",
-            "extract_dir": "cargo-udeps-v0.1.53-aarch64-pc-windows-msvc",
-            "hash": "714b4b76b0dd950c3b42a472d2b11de744118636bbde46f8587aed3dcab20809"
+            "url": "https://github.com/est31/cargo-udeps/releases/download/v0.1.54/cargo-udeps-v0.1.54-aarch64-pc-windows-msvc.zip",
+            "extract_dir": "cargo-udeps-v0.1.54-aarch64-pc-windows-msvc",
+            "hash": "0257ad2d653751c94828ee27cec916f8297681954ea51907d10c7e2a4cdea155"
         }
     },
     "checkver": "github",
