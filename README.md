@@ -21,7 +21,7 @@ The following is a list of the apps that are included
 |Clipboard|📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.|0.10.0|
 |dirkill|Fast, reliable and interactive directory deletion tool|0.2.1|
 |evcxr|An evaluation context for Rust|0.17.0|
-|flutter|Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop|3.27.3|
+|flutter|Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop|3.27.4|
 |gh-cli|GitHub's official command line tool|2.66.1|
 |ignoreit|Quickly load .gitignore templates|2.4.10|
 |lapce-nightly|Lightning-fast and Powerful Code Editor written in Rust|nightly|
@@ -31,7 +31,7 @@ The following is a list of the apps that are included
 |scarab|An installer for Hollow Knight mods written in Avalonia.|2.6.0.0|
 |sfsu-beta|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.16.0-beta.6|
 |sfsu|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.16.0|
-|signal|A cross-platform encrypted messaging service.|7.40.1|
+|signal|A cross-platform encrypted messaging service.|7.41.0|
 |trunk|Build, bundle & ship your Rust WASM application to the web. |0.21.7|
 |twitch-cli|CLI for Twitch's developer offerings|1.1.24|
 
