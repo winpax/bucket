@@ -14,14 +14,14 @@ The following is a list of the apps that are included
 |cargo-binstall|Binary installation for rust projects|1.12.0|
 |cargo-deny|Cargo plugin for linting your dependencies|0.16.1|
 |cargo-fuzz|Command line helpers for fuzzing|0.12.0|
-|cargo-outdated|A cargo subcommand for displaying when Rust dependencies are out of date|0.16.0|
+|cargo-outdated|A cargo subcommand for displaying when Rust dependencies are out of date|0.17.0|
 |cargo-udeps|Find unused dependencies in Cargo.toml|0.1.55|
 |chatterino2|Chat client for https://twitch.tv |2.5.2|
 |chatterino7|Chat client for Twitch, with added 7tv emote support|7.5.2|
 |Clipboard|📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.|0.10.0|
 |dirkill|Fast, reliable and interactive directory deletion tool|0.2.1|
 |evcxr|An evaluation context for Rust|0.19.0|
-|flutter|Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop|3.29.1|
+|flutter|Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop|3.29.2|
 |gh-cli|GitHub's official command line tool|2.68.1|
 |ignoreit|Quickly load .gitignore templates|2.4.10|
 |lapce-nightly|Lightning-fast and Powerful Code Editor written in Rust|nightly|
