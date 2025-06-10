@@ -11,7 +11,7 @@ The following is a list of the apps that are included
 | Name       | Description       | Version       |
 | ---------- | ----------------- | ------------- |
 |ADBAppControl|A new and handy desktop program, that will allow you to easily manage applications on your android device.|1.8.5|
-|cargo-binstall|Binary installation for rust projects|1.12.7|
+|cargo-binstall|Binary installation for rust projects|1.13.0|
 |cargo-deny|Cargo plugin for linting your dependencies|0.16.1|
 |cargo-fuzz|Command line helpers for fuzzing|0.12.0|
 |cargo-outdated|A cargo subcommand for displaying when Rust dependencies are out of date|0.17.0|
@@ -22,7 +22,7 @@ The following is a list of the apps that are included
 |dirkill|Fast, reliable and interactive directory deletion tool|0.2.1|
 |evcxr|An evaluation context for Rust|0.20.0|
 |flutter|Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop|3.32.2|
-|gh-cli|GitHub's official command line tool|2.74.0|
+|gh-cli|GitHub's official command line tool|2.74.1|
 |ignoreit|Quickly load .gitignore templates|2.4.10|
 |lapce-nightly|Lightning-fast and Powerful Code Editor written in Rust|nightly|
 |LightHost|A simple VST/AU, crossplatform host for OS X, Windows, and Linux that sits in the menubar.|1.2.1|
