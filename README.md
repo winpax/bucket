@@ -34,6 +34,7 @@ The following is a list of the apps that are included
 |signal|A cross-platform encrypted messaging service.|7.63.0|
 |trunk|Build, bundle & ship your Rust WASM application to the web. |0.21.14|
 |twitch-cli|CLI for Twitch's developer offerings|1.1.24|
+|WinXCorners|Hot corners for Windows 10 & 11|1.3.2|
 
 
 **Made with 💗 by Juliette Cordor**
