@@ -1,10 +1,12 @@
 {
-    "version": "7.64.0",
+    "version": "7.65.0",
     "description": "A cross-platform encrypted messaging service.",
     "homepage": "https://signal.org",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
+            "url": "https://updates.signal.org/desktop/signal-desktop-win-7.65.0.exe#/dl.7z",
+            "hash": "sha512:f32027301d474bb53ef95f873b0ac5fa718502bd45688a20049c84f024451031540a7a92223988e0b0a163745e71d4cb326e26b298f31bcdfe7625df195eee2a",
             "url": "https://updates.signal.org/desktop/signal-desktop-win-7.64.0.exe#/dl.7z",
             "hash": "sha512:2a5d3c8d54c07aeb5053f5f9d08aa904129013f36caf0becca6da1d8b7e4a54ae21e281c5a0c7241ed59a5d3c1ad63f7f71fa5437a681dbf6704bf20a4dd4bb1",
             "pre_install": [
