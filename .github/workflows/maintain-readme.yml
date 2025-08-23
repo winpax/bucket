@@ -15,7 +15,7 @@ jobs:
       - name: Update Readme
         shell: powershell
         run: ./bin/update-readme.ps1
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v6
         name: Commit Readme Changes
         with:
           commit_message: "chore: Update Readme"
