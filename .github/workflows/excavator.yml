@@ -4,6 +4,8 @@ permissions:
 on:
   schedule:
     - cron: "*/30 * * * *"
+  workflow_dispatch:
+
 name: Excavator
 jobs:
   excavate:
