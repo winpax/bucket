@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://adbappcontrol.com/download/?lang=en&t=zip#/dl.zip",
-            "hash": "80c2fcd31c553ba05ab0a04cad8e9cc4e68b66eecd278a7397339e7090097dd4"
+            "hash": "9982b14d126e1c38a2f533c3c7afdcd8f86185fd6fe7a4560a674e66fd7fc810"
         }
     },
     "persist": ["screenshots", "video", "presets", "install"],

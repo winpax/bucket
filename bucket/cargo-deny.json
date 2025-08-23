@@ -5,10 +5,10 @@
     "license": "Apache-2.0 OR MIT",
     "version": "0.16.1",
     "bin": "cargo-deny.exe",
-    "hash": "",
     "architecture": {
         "64bit": {
             "url": "https://github.com/EmbarkStudios/cargo-deny/releases/download/0.16.1/cargo-deny-0.16.1-x86_64-pc-windows-msvc.tar.gz",
+            "hash": "fe69a1481510c51bfca78c26927c8d64476ae8c46f4abc0629a197a34500fed8",
             "extract_dir": "cargo-deny-0.16.1-x86_64-pc-windows-msvc"
         }
     },

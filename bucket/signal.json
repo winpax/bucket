@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://updates.signal.org/desktop/signal-desktop-win-7.64.0.exe#/dl.7z",
-            "hash": "sha512:3d90f44399c5793b4073bd48667c25f0637512103e4771c12a34f63402b06698ddf626a7052123739c491eaed6e0c656a8dcb7c5eef843bdd8e5cc4eca56ce4c",
+            "hash": "sha512:2a5d3c8d54c07aeb5053f5f9d08aa904129013f36caf0becca6da1d8b7e4a54ae21e281c5a0c7241ed59a5d3c1ad63f7f71fa5437a681dbf6704bf20a4dd4bb1",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
                 "Remove-Item \"$dir\\`$*\", \"$dir\\Uninstall*.exe\" -Recurse -Force"
@@ -14,12 +14,7 @@
         }
     },
     "bin": "signal.exe",
-    "shortcuts": [
-        [
-            "signal.exe",
-            "Signal"
-        ]
-    ],
+    "shortcuts": [["signal.exe", "Signal"]],
     "checkver": {
         "url": "https://updates.signal.org/desktop/latest.yml",
         "regex": "version:\\s([\\d.]+)"
