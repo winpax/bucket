@@ -16,7 +16,7 @@ The following is a list of the apps that are included
 |cargo-fuzz|Command line helpers for fuzzing|0.13.1|
 |cargo-outdated|A cargo subcommand for displaying when Rust dependencies are out of date|0.17.0|
 |cargo-udeps|Find unused dependencies in Cargo.toml|0.1.57|
-|chatterino2|Chat client for https://twitch.tv |2.5.3|
+|chatterino2|Chat client for https://twitch.tv |2.5.4|
 |chatterino7|Chat client for Twitch, with added 7tv emote support|7.5.3|
 |Clipboard|📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.|0.10.0|
 |dirkill|Fast, reliable and interactive directory deletion tool|0.3.0|
