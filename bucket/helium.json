@@ -1,0 +1,32 @@
+{
+    "version": "0.4.12.1",
+    "description": " Private, fast, and honest web browser",
+    "homepage": "https://github.com/imputnet/helium",
+    "license": "GPL-3.0 AND BSD-3-Clause",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/imputnet/helium-windows/releases/download/0.4.12.1/helium_0.4.12.1_x64-windows.zip#/helium.zip",
+            "hash": "6A3C5D9B53D6953A5BB8F0123520C12752A87F06E84C8C588A16DEFDF1E1B3B5",
+            "extract_dir": "helium_0.4.12.1_x64-windows"
+        },
+        "arm64": {
+            "url": "https://github.com/imputnet/helium-windows/releases/download/0.4.12.1/helium_0.4.12.1_arm64-windows.zip#/helium.zip",
+            "hash": "DA2BFDA238FBA65E5637F6F00CA043930EC5AC75903D5ADB234C5026EEC6E592",
+            "extract_dir": "helium_0.4.12.1_arm64-windows"
+        }
+    },
+    "bin": "chrome.exe",
+    "checkver": {
+        "github": "https://github.com/imputnet/helium-windows"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/imputnet/helium-windows/releases/download/$version/helium_$version_x64-windows.zip#/helium.zip"
+            },
+            "arm64": {
+                "url": "https://github.com/imputnet/helium-windows/releases/download/$version/helium_$version_arm64-windows.zip#/helium.zip"
+            }
+        }
+    }
+}
