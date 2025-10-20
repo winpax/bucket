@@ -27,7 +27,7 @@ The following is a list of the apps that are included
 |lapce-nightly|Lightning-fast and Powerful Code Editor written in Rust|nightly|
 |LightHost|A simple VST/AU, crossplatform host for OS X, Windows, and Linux that sits in the menubar.|1.2.1|
 |livesplit|A sleek, highly customizable timer for speedrunners.|1.8.35|
-|powershell|PowerShell Core, the cross-platform task automation and configuration management framework/tool.|7.5.3|
+|powershell|PowerShell Core, the cross-platform task automation and configuration management framework/tool.|7.5.4|
 |scarab|An installer for Hollow Knight mods written in Avalonia.|2.6.0.0|
 |sfsu-beta|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.17.2-beta.2|
 |sfsu|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.17.1|
