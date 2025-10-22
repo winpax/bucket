@@ -22,7 +22,7 @@ The following is a list of the apps that are included
 |dirkill|Fast, reliable and interactive directory deletion tool|0.3.0|
 |evcxr|An evaluation context for Rust|0.21.1|
 |flutter|Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop|3.35.6|
-|gh-cli|GitHub's official command line tool|2.82.0|
+|gh-cli|GitHub's official command line tool|2.82.1|
 |ignoreit|Quickly load .gitignore templates|2.4.10|
 |lapce-nightly|Lightning-fast and Powerful Code Editor written in Rust|nightly|
 |LightHost|A simple VST/AU, crossplatform host for OS X, Windows, and Linux that sits in the menubar.|1.2.1|
