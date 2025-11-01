@@ -29,7 +29,7 @@ The following is a list of the apps that are included
 |livesplit|A sleek, highly customizable timer for speedrunners.|1.8.35|
 |powershell|PowerShell Core, the cross-platform task automation and configuration management framework/tool.|7.5.4|
 |scarab|An installer for Hollow Knight mods written in Avalonia.|2.6.0.0|
-|sfsu-beta|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.17.2-beta.2|
+|sfsu-beta|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.17.2-beta.3|
 |sfsu|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.17.1|
 |signal|A cross-platform encrypted messaging service.|7.77.1|
 |trunk|Build, bundle & ship your Rust WASM application to the web. |0.21.14|
