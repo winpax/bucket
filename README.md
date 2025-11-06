@@ -15,7 +15,7 @@ The following is a list of the apps that are included
 |cargo-deny|Cargo plugin for linting your dependencies|0.18.5|
 |cargo-fuzz|Command line helpers for fuzzing|0.13.1|
 |cargo-outdated|A cargo subcommand for displaying when Rust dependencies are out of date|0.18.0|
-|cargo-udeps|Find unused dependencies in Cargo.toml|0.1.59|
+|cargo-udeps|Find unused dependencies in Cargo.toml|0.1.60|
 |chatterino2|Chat client for https://twitch.tv |2.5.4|
 |chatterino7|Chat client for Twitch, with added 7tv emote support|7.5.4|
 |Clipboard|📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.|0.10.0|
@@ -31,7 +31,7 @@ The following is a list of the apps that are included
 |scarab|An installer for Hollow Knight mods written in Avalonia.|2.6.0.0|
 |sfsu-beta|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.17.2-beta.3|
 |sfsu|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.17.1|
-|signal|A cross-platform encrypted messaging service.|7.77.1|
+|signal|A cross-platform encrypted messaging service.|7.78.0|
 |trunk|Build, bundle & ship your Rust WASM application to the web. |0.21.14|
 |twitch-cli|CLI for Twitch's developer offerings|1.1.24|
 |WinXCorners|Hot corners for Windows 10 & 11|1.3.2|
