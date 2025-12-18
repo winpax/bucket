@@ -5,7 +5,7 @@ name: Issue
 jobs:
   issueHandler:
     name: Issue Handler
-    runs-on: blacksmith-4vcpu-windows-2025
+    runs-on: windows-latest
     steps:
       - uses: actions/checkout@main
       - name: Issue Handler
