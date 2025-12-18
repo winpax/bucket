@@ -10,7 +10,7 @@ name: Excavator
 jobs:
   excavate:
     name: Excavator
-    runs-on: blacksmith-4vcpu-windows-2025
+    runs-on: windows-latest
     steps:
       - uses: actions/checkout@main
       - name: Excavator

@@ -11,7 +11,7 @@ on:
 jobs:
   test_powershell:
     name: WindowsPowerShell
-    runs-on: blacksmith-4vcpu-windows-2025
+    runs-on: windows-latest
     steps:
       - name: Checkout Bucket
         uses: actions/checkout@main
@@ -35,7 +35,7 @@ jobs:
           .\personal-scoop\bin\test.ps1
   test_pwsh:
     name: PowerShell
-    runs-on: blacksmith-4vcpu-windows-2025
+    runs-on: windows-latest
     steps:
       - name: Checkout Bucket
         uses: actions/checkout@main
