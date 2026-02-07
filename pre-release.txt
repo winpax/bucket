@@ -1,0 +1,1 @@
+        "jsonpath": "$[?(@.prerelease == true)].tag_name",

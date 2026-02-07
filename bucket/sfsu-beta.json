@@ -21,7 +21,6 @@
     "bin": "sfsu.exe",
     "checkver": {
         "url": "https://api.github.com/repositories/558838965/releases",
-        "jsonpath": "$[?(@.prerelease == true)].tag_name",
         "regex": "v([\\w.-]+)"
     },
     "autoupdate": {
