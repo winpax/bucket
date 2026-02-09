@@ -23,7 +23,7 @@ The following is a list of the apps that are included
 |evcxr|An evaluation context for Rust|0.21.1|
 |flutter|Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop|3.38.9|
 |gh-cli|GitHub's official command line tool|2.86.0|
-|ignoreit|Quickly load .gitignore templates|2.4.10|
+|ignoreit|Quickly load .gitignore templates|3.0.0|
 |lapce-nightly|Lightning-fast and Powerful Code Editor written in Rust|nightly|
 |LightHost|A simple VST/AU, crossplatform host for OS X, Windows, and Linux that sits in the menubar.|1.2.1|
 |livesplit|A sleek, highly customizable timer for speedrunners.|1.8.36|
