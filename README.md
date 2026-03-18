@@ -21,13 +21,13 @@ The following is a list of the apps that are included
 |Clipboard|📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.|0.10.0|
 |dirkill|Fast, reliable and interactive directory deletion tool|0.3.1|
 |evcxr|An evaluation context for Rust|0.21.1|
-|flutter|Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop|3.41.4|
+|flutter|Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop|3.41.5|
 |gh-cli|GitHub's official command line tool|2.88.1|
 |ignoreit|Quickly load .gitignore templates|3.0.0|
 |lapce-nightly|Lightning-fast and Powerful Code Editor written in Rust|nightly|
 |LightHost|A simple VST/AU, crossplatform host for OS X, Windows, and Linux that sits in the menubar.|1.2.1|
 |livesplit|A sleek, highly customizable timer for speedrunners.|1.8.37|
-|powershell|PowerShell Core, the cross-platform task automation and configuration management framework/tool.|7.5.5|
+|powershell|PowerShell Core, the cross-platform task automation and configuration management framework/tool.|7.6.0|
 |scarab|An installer for Hollow Knight mods written in Avalonia.|2.7.0.0|
 |sfsu-beta|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.17.4-beta.2|
 |sfsu|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.17.2|
