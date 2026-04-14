@@ -14,7 +14,7 @@ The following is a list of the apps that are included
 |cargo-binstall|Binary installation for rust projects|1.18.1|
 |cargo-deny|Cargo plugin for linting your dependencies|0.19.2|
 |cargo-fuzz|Command line helpers for fuzzing|0.13.1|
-|cargo-outdated|A cargo subcommand for displaying when Rust dependencies are out of date|0.18.0|
+|cargo-outdated|A cargo subcommand for displaying when Rust dependencies are out of date|0.19.0|
 |cargo-udeps|Find unused dependencies in Cargo.toml|0.1.60|
 |chatterino2|Chat client for https://twitch.tv |2.5.5|
 |chatterino7|Chat client for Twitch, with added 7tv emote support|7.5.5|
