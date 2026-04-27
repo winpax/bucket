@@ -21,7 +21,7 @@ The following is a list of the apps that are included
 |Clipboard|📋 Cut, copy, and paste anything, anywhere, all from the terminal. 😄 Easy, breezy, and beautiful.|0.10.0|
 |dirkill|Fast, reliable and interactive directory deletion tool|0.3.1|
 |evcxr|An evaluation context for Rust|0.21.1|
-|flutter|Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop|3.41.7|
+|flutter|Google's SDK for crafting beautiful, fast user experiences for mobile, web, and desktop|3.41.8|
 |gh-cli|GitHub's official command line tool|2.91.0|
 |ignoreit|Quickly load .gitignore templates|3.0.0|
 |lapce-nightly|Lightning-fast and Powerful Code Editor written in Rust|nightly|
