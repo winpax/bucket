@@ -3,12 +3,12 @@
     "description": "Command line helpers for fuzzing",
     "homepage": "https://github.com/rust-fuzz/cargo-fuzz",
     "license": "Apache-2.0 OR MIT",
-    "version": "0.13.1",
+    "version": "0.13.2",
     "bin": "cargo-fuzz.exe",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/rust-fuzz/cargo-fuzz/releases/download/0.13.1/cargo-fuzz-0.13.1-x86_64-pc-windows-msvc.zip",
-            "hash": "0d09122d1788077594f5f9739b80adfeaefeee7bb107eb3a9e4563233213e38d"
+            "url": "https://github.com/rust-fuzz/cargo-fuzz/releases/download/0.13.2/cargo-fuzz-0.13.2-x86_64-pc-windows-msvc.zip",
+            "hash": "c4282b9f938368f711c0d959e7fcf1cd52fc40e233425c334f16012f5a7457a8"
         }
     },
     "checkver": "github",
