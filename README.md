@@ -12,7 +12,7 @@ The following is a list of the apps that are included
 | ---------- | ----------------- | ------------- |
 |ADBAppControl|A new and handy desktop program, that will allow you to easily manage applications on your android device.|1.8.6|
 |cargo-binstall|Binary installation for rust projects|1.27.0|
-|cargo-deny|Cargo plugin for linting your dependencies|0.21.0|
+|cargo-deny|Cargo plugin for linting your dependencies|0.22.0|
 |cargo-fuzz|Command line helpers for fuzzing|0.13.2|
 |cargo-outdated|A cargo subcommand for displaying when Rust dependencies are out of date|0.19.0|
 |cargo-udeps|Find unused dependencies in Cargo.toml|0.1.61|
@@ -31,7 +31,7 @@ The following is a list of the apps that are included
 |scarab|An installer for Hollow Knight mods written in Avalonia.|2.7.0.0|
 |sfsu-beta|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.18.1|
 |sfsu|Stupid Fast Scoop Utilities. Incredibly fast replacements for commonly used Scoop commands, written in Rust.|1.18.1|
-|signal|A cross-platform encrypted messaging service.|8.35.0|
+|signal|A cross-platform encrypted messaging service.|8.36.0|
 |trunk|Build, bundle & ship your Rust WASM application to the web. |0.22.2|
 |twitch-cli|CLI for Twitch's developer offerings|1.1.24|
 |WinXCorners|Hot corners for Windows 10 & 11|1.3.2|
