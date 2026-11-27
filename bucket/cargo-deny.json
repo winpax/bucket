@@ -3,13 +3,13 @@
     "description": "Cargo plugin for linting your dependencies",
     "homepage": "https://github.com/EmbarkStudios/cargo-deny",
     "license": "Apache-2.0 OR MIT",
-    "version": "0.22.1",
+    "version": "0.22.2",
     "bin": "cargo-deny.exe",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/EmbarkStudios/cargo-deny/releases/download/0.22.1/cargo-deny-0.22.1-x86_64-pc-windows-msvc.tar.gz",
-            "hash": "b8d7e473f54c328cc528ef8aea221c40b5ccac3d63844aa056f86ed0886800a2",
-            "extract_dir": "cargo-deny-0.22.1-x86_64-pc-windows-msvc"
+            "url": "https://github.com/EmbarkStudios/cargo-deny/releases/download/0.22.2/cargo-deny-0.22.2-x86_64-pc-windows-msvc.tar.gz",
+            "hash": "da696b3647f5a661d599807cadb13ed120e56fb421ee3ef113082c274194572c",
+            "extract_dir": "cargo-deny-0.22.2-x86_64-pc-windows-msvc"
         }
     },
     "checkver": "github",
